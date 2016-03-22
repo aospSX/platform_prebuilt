@@ -1,0 +1,6 @@
+The objects in this prebuilt directory can be rebuilt
+using the source archive
+
+ccache-3.1.8.tar.*
+
+hosted at <http://ccache.samba.org/download.html>.
